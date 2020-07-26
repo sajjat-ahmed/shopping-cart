@@ -3,8 +3,9 @@ body{
 }
 .cart{
 	margin: 100px 0;
-	background-color: #F6F5FA;;
+	background-color: #4267b2;;
 	padding: 60px 0;
+	border-radius: 20px;
 }
 .total-price{
 	padding-bottom: 15px;
@@ -28,6 +29,7 @@ body{
 }
 .cart-item .remove-item{
 	width: 25px!important;
+	display: block;
 }
 .btn-default{
 	background-color: #fff;
@@ -50,6 +52,6 @@ body{
     float: right;
     padding: 10px 30px;
 	font-size: 19px;
-	background-color: #2FBE70;
+	background-color: #2ec4c6;
 	border: none;
 }
